@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    width:100%;
+    height: auto;
+    background-color:white;
+}
+
+header {
+    margin-top:200px;
+    margin-left:278px;
+}
+
+h1 {
+    font-family: 'avenir';
+    font-size:40px;
+    font-weight: bold;
+    color:black;
+}
+
+header p {
+    font-family: 'avenir';
+    font-size: 25px;
+    font-weight: 200;
+    margin-top:20px;
+    color:black;
+    opacity: 0.8;
+}
+
+.text p {
+    font-family: 'avenir';
+    font-size:40px;
+    font-weight: bolder;
+    color: white;
+    margin: 0 auto;
+    display: inline;
+}
+
+.text p:hover {
+    color: #FF0000
+}
+
+.wrapper {
+    width:67%;
+    margin:0 auto;
+    cursor: default;
+}

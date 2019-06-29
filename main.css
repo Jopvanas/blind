@@ -47,6 +47,8 @@ header p {
 
 footer {
     margin-top:150px;
+    margin-left: 278px;
+    width:67%;
 }
 
 footer .wrapper2 p {
@@ -56,9 +58,4 @@ footer .wrapper2 p {
     margin-top:20px;
     color:black;
     opacity: 0.5;
-}
-
-.wrapper2 {
-    width:67%;
-    margin:0 auto;
 }

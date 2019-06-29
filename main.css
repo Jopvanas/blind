@@ -56,4 +56,7 @@ footer .wrapper2 p {
     margin-top:20px;
     color:black;
     opacity: 0.5;
+    width:67%;
+    margin:0 auto;
+    cursor: default;
 }

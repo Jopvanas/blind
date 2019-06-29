@@ -17,7 +17,7 @@ h1 {
     color:black;
 }
 
-header p {
+header p, footer p {
     font-family: 'avenir';
     font-size: 25px;
     font-weight: 200;
@@ -43,4 +43,8 @@ header p {
     width:67%;
     margin:0 auto;
     cursor: default;
+}
+
+footer {
+    margin-bottom:100px;
 }

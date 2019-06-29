@@ -44,18 +44,3 @@ header p {
     margin:0 auto;
     cursor: default;
 }
-
-footer {
-    margin-top:150px;
-    margin-left: 278px;
-    width:67%;
-}
-
-footer .wrapper2 p {
-    font-family: 'avenir';
-    font-size: 15px;
-    font-weight: 200;
-    margin-top:20px;
-    color:black;
-    opacity: 0.5;
-}
